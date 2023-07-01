@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-chmod +xxr hello
-=======
-chmod 751 hello
->>>>>>> 145c1f2e79762b0a6fbf8da58f1fb368c552a49a
-=======
-chmod +xxx hello
->>>>>>> 6e7ea97b40c56860459a536588412aedbc7569c0
+chmod ugo+x hello
